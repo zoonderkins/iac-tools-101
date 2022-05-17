@@ -33,4 +33,4 @@
 
 ## Destroy
 
-`cdktf destory`
+`cdktf destroy`
